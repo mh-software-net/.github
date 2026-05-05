@@ -53,5 +53,5 @@ If you have a process that still depends on manual Excel work, repeated copy-pas
 
 ## Contact
 
-Website: [mh-software.net](https://mh-software.net)  
+Website: [mh-software.net](https://mh-software.net/)  
 Email: [marco.hoensch@mh-software.net](mailto:marco.hoensch@mh-software.net)
